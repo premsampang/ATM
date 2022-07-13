@@ -1,0 +1,22 @@
+body {
+  background-color: bisque;
+  text-align: center;
+}
+
+.deposit {
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+    width: 200px;
+  }
+  
+  .cash-back {
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+    width: 200px;
+  }
+
+ 
+  
+  
